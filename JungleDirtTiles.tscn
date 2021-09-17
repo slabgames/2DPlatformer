@@ -17,7 +17,6 @@ __meta__ = {
 }
 
 [node name="StaticBody2D" type="StaticBody2D" parent="0"]
-visible = false
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="0/StaticBody2D"]
 position = Vector2( 16, 16 )
@@ -36,7 +35,6 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="1"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="1/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
 
@@ -53,7 +51,6 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="2"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="2/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
 
@@ -70,7 +67,6 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="3"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="3/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
 
@@ -87,7 +83,6 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="4"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="4/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
 
@@ -104,7 +99,6 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="5"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="5/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
 
@@ -121,7 +115,6 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="6"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="6/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
 
@@ -138,7 +131,6 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="7"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="7/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
 
@@ -155,6 +147,5 @@ __meta__ = {
 [node name="StaticBody2D" type="StaticBody2D" parent="8"]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="8/StaticBody2D"]
-visible = false
 position = Vector2( 16, 16 )
 shape = SubResource( 1 )
